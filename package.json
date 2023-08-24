@@ -1,0 +1,13 @@
+{
+  "name": "i18ncommon",
+  "version": "1.0.3",
+  "main": "index.js",
+  "repository": "git@gitlab.ftgaming.cc:front-end/i18ncommon.git",
+  "author": "Dean <deanhuang@tlstech.com.tw>",
+  "license": "MIT",
+  "bin": {
+    "initCommonKey": "./bin/init.js",
+    "addNewKeys": "./bin/addNewKeys.js",
+    "syncKeys": "./bin/syncKeys.js"
+  }
+}
